@@ -1,50 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on February 20, 2025 at 4:23 pm by All in One SEO v4.3.2 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on February 20, 2025 at 7:41 pm by All in One SEO v4.3.2 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="./default.xsl?sitemap=root"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl?sitemap=root"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc><![CDATA[./post-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2019-11-05T02:33:58+00:00]]></lastmod>
-	</sitemap>
-	<sitemap>
-		<loc><![CDATA[./page-sitemap.xml]]></loc>
+		<loc><![CDATA[page-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-02-17T17:02:29+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[./service-sitemap.xml]]></loc>
+		<loc><![CDATA[service-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2020-03-21T08:24:52+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[./case-study-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2019-12-13T08:26:38+00:00]]></lastmod>
-	</sitemap>
-	<sitemap>
-		<loc><![CDATA[./footer-sitemap.xml]]></loc>
+		<loc><![CDATA[footer-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-02-20T16:04:25+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[./ct-mega-menu-sitemap.xml]]></loc>
+		<loc><![CDATA[ct-mega-menu-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2020-07-25T03:50:57+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[./post-archive-sitemap.xml]]></loc>
+		<loc><![CDATA[post-archive-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-02-20T16:04:25+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[./category-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2019-11-05T02:33:58+00:00]]></lastmod>
-	</sitemap>
-	<sitemap>
-		<loc><![CDATA[./post_tag-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2019-11-05T02:33:58+00:00]]></lastmod>
-	</sitemap>
-	<sitemap>
-		<loc><![CDATA[./service-category-sitemap.xml]]></loc>
+		<loc><![CDATA[service-category-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2020-03-21T08:24:52+00:00]]></lastmod>
-	</sitemap>
-	<sitemap>
-		<loc><![CDATA[./case-study-category-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2019-12-13T08:26:38+00:00]]></lastmod>
 	</sitemap>
 </sitemapindex>

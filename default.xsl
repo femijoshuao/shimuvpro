@@ -260,7 +260,7 @@
 
 			<svg width="6" height="8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M.727 7.06L3.78 4 .727.94l.94-.94 4 4-4 4-.94-.94z" fill="#141B38"/></svg>
 
-					<a href="./sitemap.xml"><span>Sitemap Index</span></a>
+					<a href="sitemap.xml"><span>Sitemap Index</span></a>
 						<svg width="6" height="8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M.727 7.06L3.78 4 .727.94l.94-.94 4 4-4 4-.94-.94z" fill="#141B38"/></svg>
 
 					<span>Sitemap</span>
@@ -376,7 +376,7 @@
 						</xsl:choose>
 					</xsl:otherwise>
 				</xsl:choose>
-				and was generated on February 20, 2025 at 4:24 pm			</p>
+				and was generated on February 20, 2025 at 7:41 pm			</p>
 		</xsl:if>
 	</div>
 </xsl:template>

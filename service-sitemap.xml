@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on February 20, 2025 at 4:23 pm by All in One SEO v4.3.2 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on February 20, 2025 at 7:41 pm by All in One SEO v4.3.2 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="./default.xsl?sitemap=service"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl?sitemap=service"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[./service/brand-package/]]>/index.html</loc>
+		<loc><![CDATA[service/brand-package/index.html]]></loc>
 		<lastmod><![CDATA[2020-03-21T08:24:52+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -41,7 +41,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./service/web-desiging/]]>/index.html</loc>
+		<loc><![CDATA[service/web-desiging/index.html]]></loc>
 		<lastmod><![CDATA[2020-03-21T08:23:48+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -74,7 +74,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./service/tax-consulting/]]>/index.html</loc>
+		<loc><![CDATA[service/tax-consulting/index.html]]></loc>
 		<lastmod><![CDATA[2020-03-21T08:22:00+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -107,7 +107,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./service/tax-consultancy/]]>/index.html</loc>
+		<loc><![CDATA[service/tax-consultancy/index.html]]></loc>
 		<lastmod><![CDATA[2020-03-11T09:22:21+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -139,11 +139,11 @@
 			<image:loc><![CDATA[https://demo.casethemes.net/consultio-consulting/wp-content/uploads/2019/12/client-05.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2020/03/update-service-01.jpg]]></image:loc>
+			<image:loc><![CDATA[wp-content/uploads/2020/03/update-service-01.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./service/audit-assurance/]]>/index.html</loc>
+		<loc><![CDATA[service/audit-assurance/index.html]]></loc>
 		<lastmod><![CDATA[2020-03-11T09:21:33+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -175,11 +175,11 @@
 			<image:loc><![CDATA[https://demo.casethemes.net/consultio-consulting/wp-content/uploads/2019/12/client-05.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2020/03/update-service-1.jpg]]></image:loc>
+			<image:loc><![CDATA[wp-content/uploads/2020/03/update-service-1.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./service/value-added-tax/]]>/index.html</loc>
+		<loc><![CDATA[service/value-added-tax/index.html]]></loc>
 		<lastmod><![CDATA[2020-03-04T01:26:57+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -211,11 +211,11 @@
 			<image:loc><![CDATA[https://demo.casethemes.net/consultio-consulting/wp-content/uploads/2019/12/client-05.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2019/11/theme-14.jpg]]></image:loc>
+			<image:loc><![CDATA[wp-content/uploads/2019/11/theme-14.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./service/accounting-services/]]>/index.html</loc>
+		<loc><![CDATA[service/accounting-services/index.html]]></loc>
 		<lastmod><![CDATA[2020-03-04T01:25:29+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -247,11 +247,11 @@
 			<image:loc><![CDATA[https://demo.casethemes.net/consultio-consulting/wp-content/uploads/2019/12/client-05.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2019/11/theme-10.jpg]]></image:loc>
+			<image:loc><![CDATA[wp-content/uploads/2019/11/theme-10.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./service/business-plan/]]>/index.html</loc>
+		<loc><![CDATA[service/business-plan/index.html]]></loc>
 		<lastmod><![CDATA[2020-02-13T08:00:23+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -283,11 +283,11 @@
 			<image:loc><![CDATA[https://demo.casethemes.net/consultio-consulting/wp-content/uploads/2019/12/client-05.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2019/11/theme-09.jpg]]></image:loc>
+			<image:loc><![CDATA[wp-content/uploads/2019/11/theme-09.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./service/amazing-strategy/]]>/index.html</loc>
+		<loc><![CDATA[service/amazing-strategy/index.html]]></loc>
 		<lastmod><![CDATA[2020-02-13T07:59:06+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -319,11 +319,11 @@
 			<image:loc><![CDATA[https://demo.casethemes.net/consultio-consulting/wp-content/uploads/2019/12/client-05.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2019/12/theme-15.jpg]]></image:loc>
+			<image:loc><![CDATA[wp-content/uploads/2019/12/theme-15.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./service/business-strategy/]]>/index.html</loc>
+		<loc><![CDATA[service/business-strategy/index.html]]></loc>
 		<lastmod><![CDATA[2020-02-13T07:58:38+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -355,11 +355,11 @@
 			<image:loc><![CDATA[https://demo.casethemes.net/consultio-consulting/wp-content/uploads/2019/12/client-05.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2019/11/theme-05.jpg]]></image:loc>
+			<image:loc><![CDATA[wp-content/uploads/2019/11/theme-05.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./service/global-insights/]]>/index.html</loc>
+		<loc><![CDATA[service/global-insights/index.html]]></loc>
 		<lastmod><![CDATA[2020-02-13T07:57:41+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -391,11 +391,11 @@
 			<image:loc><![CDATA[https://demo.casethemes.net/consultio-consulting/wp-content/uploads/2019/12/client-05.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2019/12/corporate-portfolio2.jpg]]></image:loc>
+			<image:loc><![CDATA[wp-content/uploads/2019/12/corporate-portfolio2.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[./service/seo-optimization/]]>/index.html</loc>
+		<loc><![CDATA[service/seo-optimization/index.html]]></loc>
 		<lastmod><![CDATA[2020-02-12T03:26:05+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -427,7 +427,7 @@
 			<image:loc><![CDATA[https://demo.casethemes.net/consultio-consulting/wp-content/uploads/2019/12/client-05.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[./wp-content/uploads/2019/12/corporate-portfolio4.jpg]]></image:loc>
+			<image:loc><![CDATA[wp-content/uploads/2019/12/corporate-portfolio4.jpg]]></image:loc>
 		</image:image>
 	</url>
 </urlset>

@@ -14,3 +14,8 @@
 	-ms-flex-line-pack: start;
 	align-content: flex-start;
 }
+@media (prefers-reduced-motion: no-preference) {
+    html.pxl-onepage-wrap {
+        scroll-behavior: inherit;
+    }
+}

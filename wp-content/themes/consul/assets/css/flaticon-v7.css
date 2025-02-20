@@ -1,10 +1,10 @@
 @font-face {
   font-family: "flaticon-v7";
-  src: url("./../fonts/flaticon-v7.eot");
-  src: url("./../fonts/flaticon-v7.eot#iefix") format("embedded-opentype"),
-       url("./../fonts/flaticon-v7.woff") format("woff"),
-       url("./../fonts/flaticon-v7.ttf") format("truetype"),
-       url("./../fonts/flaticon-v7.svg#flaticon-v7") format("svg");
+  src: url("../fonts/flaticon-v7.eot");
+  src: url("../fonts/flaticon-v7.eot#iefix") format("embedded-opentype"),
+       url("../fonts/flaticon-v7.woff") format("woff"),
+       url("../fonts/flaticon-v7.ttf") format("truetype"),
+       url("../fonts/flaticon-v7.svg#flaticon-v7") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -12,7 +12,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "flaticon-v7";
-    src: url("./../fonts/flaticon-v7.svg#flaticon-v7") format("svg");
+    src: url("../fonts/flaticon-v7.svg#flaticon-v7") format("svg");
   }
 }
 
